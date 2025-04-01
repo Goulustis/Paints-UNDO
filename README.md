@@ -1,3 +1,11 @@
+# Bug fixes
+```
+python -m pip install peft==0.10.0
+pip install -U accelerate==0.32.0
+pip install --force-reinstall -v "triton==3.1.0"
+```
+
+
 # Paints-Undo
 
 PaintsUndo: A Base Model of Drawing Behaviors in Digital Paintings
